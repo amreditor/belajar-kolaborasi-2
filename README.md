@@ -5,4 +5,4 @@ belajar membuat squashing merge
 - belajar github coy dengan di dicoding
 - fullsatck developer 
 sukses-sukses<br>
-mempelajari github di diocoding Indonesia<br>
+Mempelajari Github Di Dicoding
